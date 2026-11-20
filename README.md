@@ -8,7 +8,7 @@ TugPercept is a custom, self-collected maritime visual object tracking dataset d
 
 - **Paper title:** [TO BE FILLED: Full paper title]
 - **Paper link / DOI:** [TO BE FILLED: Paper URL or DOI]
-- **Contact email:** `YOUR_EMAIL@example.com` (replace with the actual email address)
+- **Contact email:** `chenxinqiang@stu.shmtu.edu.cn`
 
 ## Dataset Previews
 
@@ -35,7 +35,7 @@ The publicly available download contains **8 video sequences**, representing a s
 
 ### Full Dataset
 
-**To request access to the full dataset, please email [YOUR_EMAIL@example.com](chenxinqiang@stu.shmtu.edu.cn).**
+**To request access to the full dataset, please email chenxinqiang@stu.shmtu.edu.cn**
 
 ## Citation
 

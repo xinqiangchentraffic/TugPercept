@@ -30,7 +30,7 @@ TugPercept is a custom, self-collected maritime visual object tracking dataset d
 
 The publicly available download contains **8 video sequences**, representing a subset of the full dataset.
 
-- **Baidu Netdisk:** (https://pan.baidu.com/s/1bPHBLqTPSehsp9P8tBZAiw?pwd=n9pu)]
+- **Baidu Netdisk:** https://pan.baidu.com/s/1bPHBLqTPSehsp9P8tBZAiw?pwd=n9pu
 - **Access code:** ` n9pu`
 
 ### Full Dataset

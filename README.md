@@ -1,61 +1,51 @@
 # TugPercept Dataset
 
-TugPercept 是一份自采、自建的海事视觉目标追踪数据集，面向港区环境下的船舶检测、目标关联与连续追踪研究。数据包含拖轮、大型运输船舶等目标，以及尺度变化、转向、遮挡和复杂港区背景等情况。
+TugPercept is a custom, self-collected maritime visual object tracking dataset designed for research on vessel detection, object association, and continuous tracking in harbor environments.
 
-**目前我们仅公开完整数据集的一部分，即下方百度网盘链接中的 8 段视频序列，共 4,800 帧。如需申请获取完整数据集，请通过邮箱联系作者。**
+**We currently release only a subset of the full dataset, consisting of 8 video sequences and 4,800 frames, available through the Baidu Netdisk link below. To request access to the full dataset, please contact the authors by email.**
 
-## 论文与作者
+## Paper and Contact
 
-- **论文标题：** [待填写：论文完整标题]
-- **论文链接 / DOI：** [待填写：论文地址或 DOI]
-- **联系邮箱：** `YOUR_EMAIL@example.com`（待替换）
+- **Paper title:** [TO BE FILLED: Full paper title]
+- **Paper link / DOI:** [TO BE FILLED: Paper URL or DOI]
+- **Contact email:** `YOUR_EMAIL@example.com` (replace with the actual email address)
 
-## 数据预览
+## Dataset Previews
 
-### 图像与标注示例
+### Sample Image and Annotations
 
-![港区船舶标注示例](assets/images/图片2.tif)
+![Example of vessel annotations in a harbor](assets/images/图片2.jpg)
 
-### 动态预览
+### Animated Previews
 
-**拖轮转向**
+**Tugboat Turning**
 
-![拖轮转向追踪示例](assets/gifs/video_187.gif)
+![Tugboat turning and tracking example](assets/gifs/video_187.gif)
 
-**港区船舶**
+**Harbor Vessels**
 
-![港区船舶追踪示例](assets/gifs/video_115.gif)
+![Vessel tracking in a harbor](assets/gifs/video_115.gif)
 
-**多船目标追踪 **
+**Multi-Vessel Tracking**
 
-![多船目标追踪示例](assets/gifs/video_181.gif)
+![Multi-vessel tracking example](assets/gifs/video_181.gif)
 
-## 数据下载与完整数据申请
+## Dataset Download and Full Dataset Access
 
-### 公开子集
+### Public Subset
 
-目前公开的下载内容仅包含 **8 段序列**，并非完整数据集。
+The publicly available download contains **8 video sequences**, representing a subset of the full dataset.
 
-- **百度网盘链接：** [点击下载公开子集](https://pan.baidu.com/s/BAIDU_SHARE_ID)
-- **提取码：** `BAIDU_ACCESS_CODE`
-- **公开版本：** [待填写：版本号]
-- **更新日期：** [待填写：实际发布日期]
-- **下载包内容：** [待填写：图片与标注的压缩包名称，并确认已同时包含原始 JPEG、对应版本 GT 和序列元数据]
-### 完整数据集
+- **Baidu Netdisk:** [Download the public subset](https://pan.baidu.com/s/BAIDU_SHARE_ID)
+- **Access code:** `BAIDU_ACCESS_CODE`
 
-**如需申请获取完整数据集，请发送邮件至 [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)。**
+### Full Dataset
 
-建议邮件主题为：`TugPercept 完整数据集申请`，并简要说明：
+**To request access to the full dataset, please email [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com).**
 
-- 姓名及所属机构；
-- 研究方向或项目背景；
-- 数据集的预期用途。
+## Citation
 
-作者将通过邮件回复访问方式及适用条款。完整数据集的申请入口不代表其已在网盘中公开提供。
-
-## 引用
-
-如果本数据集对您的研究有帮助，请引用相关论文。以下为待填写模板，正式使用前请替换为论文的真实信息：
+If you find this dataset useful for your research, please cite the associated paper. Replace the placeholders below with the actual publication details before use.
 
 ```bibtex
 @misc{tugpercept,

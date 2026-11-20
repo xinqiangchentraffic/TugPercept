@@ -12,12 +12,6 @@ TugPercept is a custom, self-collected maritime visual object tracking dataset d
 
 ## Dataset Previews
 
-### Sample Image and Annotations
-
-![Example of vessel annotations in a harbor](assets/images/图片2.jpg)
-
-### Animated Previews
-
 **Tugboat Turning**
 
 ![Tugboat turning and tracking example](assets/gifs/video_187.gif)
